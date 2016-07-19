@@ -1,1 +1,1 @@
-# sidr2
+# sidr
